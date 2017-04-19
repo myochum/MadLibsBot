@@ -1,0 +1,22 @@
+{
+  "name": "madlibsbot",
+  "version": "1.0.0",
+  "description": "Mad Libs Twitter Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myochum/MadLibsBot.git"
+  },
+  "author": "myochum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myochum/MadLibsBot/issues"
+  },
+  "homepage": "https://github.com/myochum/MadLibsBot#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
